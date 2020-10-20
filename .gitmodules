@@ -1,4 +1,0 @@
-[submodule "xmarts_modules_sh"]
-	path = xmarts_modules_sh
-	url = git@github.com:viernes/xmarts_modules_sh.git
-	branch = master
